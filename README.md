@@ -31,8 +31,8 @@ Follow these steps to set up the project on your local machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone [YOUR_REPOSITORY_URL]
-   cd [YOUR_REPOSITORY_NAME]
+   git clone https://github.com/CrimsonRed89/Oculis-AI
+   cd Oculis-AI
    ```
 2. **Create a virtual environment:**
    ```bash
