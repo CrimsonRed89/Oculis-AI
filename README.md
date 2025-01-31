@@ -22,7 +22,7 @@ Before you begin, ensure you have the following installed on your machine:
 
 ## Required Libraries
 
-This project requires several Python libraries. Create a `requirements.txt` file with the following content:
+This project requires several Python libraries. Refer to `requirements.txt` file with the following content:
 streamlit google-generativeai SpeechRecognition gTTS googletrans==4.0.0-rc1
 
 ## Setup Instructions
