@@ -43,7 +43,7 @@ Follow these steps to set up the project on your local machine:
    ```bash
    venv\Scripts\activate
    ```
-   -On MacOs/Linux:
+   - On MacOs/Linux:
    ```bash
    source venv/bin/activate
    ```
@@ -64,10 +64,10 @@ The application will start and be available at http://localhost:8501.
 ## Future Improvements
 This project is currently running locally and will be improved with the following features in the near future:
 
--Slack or Discord integration
--Hosting options to make it publicly accessible
--Additional mood variations and personality modules
--Better handling of user preferences and learning mechanisms
+- Slack or Discord integration
+- Hosting options to make it publicly accessible
+- Additional mood variations and personality modules
+- Better handling of user preferences and learning mechanisms
 
 ## Contributing
 If you have suggestions for improvements or would like to contribute to this project, feel free to create a pull request or open an issue on the GitHub repository.
